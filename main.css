@@ -1,0 +1,207 @@
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.links {
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+       
+}
+
+nav a {
+
+    color: #fff;
+}
+
+.Largefont {
+
+    font-size: 50px;
+}
+
+#Section {
+    background-color: coral;
+}
+
+.Title {
+
+display: flex;
+justify-content: center;
+}
+
+.SearchBar{
+
+    display: flex;
+    
+    justify-content: flex-end;
+    }
+
+.Topgif {
+
+    background-image: url("images/giphy.gif");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Topgif .container {
+    position: relative;
+    top:100px;
+
+}
+
+.Topgif h1 {
+    color: #fff;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0)
+  }
+  
+  .Topgif p {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0)
+
+  }
+
+.container a {
+    color: #fff;
+}
+
+
+.items {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.itemsdescription {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    font: bold;
+}
+
+.itemsdescription2 {
+
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    font: bolder;
+}
+
+.collab {
+
+    color: #fff;
+    font: bold;
+    display: flex;
+    justify-content: center;
+} 
+
+.learn-more {
+    background-color:#E0E0E0;
+    flex-direction: row;
+    justify-content: end;
+    
+  }
+  
+  .learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold; color: black;
+  }
+  
+  .learn-more a {
+    color: #00b0ff;
+  }
+
+  .learn-more {
+
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+  .alphamiddletext {
+
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .container h1 {
+    color: #fff;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  }
+  
+  .Topgif2 {
+    font-size: 20px;
+    color: #fff;
+  }
+
+.container {
+
+    color: #fff;
+}
+
+.Topgif2 {
+    background-image:url("images/tenor.gif");
+     height: 500px;
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+.container2 p {
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.container2 a {
+    color: #fff;
+     
+    font-family: 'Shift', sans-serif;
+    
+    text-shadow: 2px 2px 5px rgb(0, 0, 0)
+
+}
+
+.container2 h1 {
+
+    color: #fff;
+     
+    font-family: 'Shift', sans-serif;
+    
+    text-shadow: 2px 2px 5px rgb(0, 0, 0)
+
+}
+
+.Form {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.Form h1 {
+
+display: flex;
+justify-content: center;
+
+}
+
+
+.Tyler1pic {
+
+    display: flex;
+    justify-content: center;
+}
